@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tilman Bauer&#39;s math site</title>
+    <link>https://people.kth.se/~tilmanb/post/</link>
+    <description>Recent content in Posts on Tilman Bauer&#39;s math site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://people.kth.se/~tilmanb/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New web page</title>
+      <link>https://people.kth.se/~tilmanb/post/my-new-page/</link>
+      <pubDate>Thu, 02 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.kth.se/~tilmanb/post/my-new-page/</guid>
+      <description>&lt;p&gt;So here it is, my new web page. Overdue, as I noticed that about half of the links of my old web page were dead&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;This new one is built using &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, a static website generator.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Beyond p-compact groups II</title>
+      <link>https://people.kth.se/~tilmanb/post/beyond-p-compact-groups/</link>
+      <pubDate>Thu, 25 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.kth.se/~tilmanb/post/beyond-p-compact-groups/</guid>
+      <description>&lt;h2&gt;Workshop on the ramifications of p-compact group theory and unstable chromatic homotopy, VU University Amsterdam,
+March 27-April 1, 2010&lt;/h2&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

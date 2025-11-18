@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Tilman Bauer&#39;s math site</title>
+    <link>https://people.kth.se/~tilmanb/home/</link>
+    <description>Recent content in Homes on Tilman Bauer&#39;s math site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Aug 2025 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://people.kth.se/~tilmanb/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>https://people.kth.se/~tilmanb/home/about/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.kth.se/~tilmanb/home/about/</guid>
+      <description>Biography I&amp;rsquo;m an algebraic topologist working at Kungliga Tekniska Högskolan (KTH) in Stockholm. Previously, I&amp;rsquo;ve worked in the same racket in Amsterdam and Münster; I got my PhD at MIT and studied in Oxford and Bonn.
+I spend most of my days doing research, teaching, and organizing things at the department and outside.
+At Stockholm, we&amp;rsquo;re collaborating with Stockholms universitet (SU) in all matters research and graduate teaching. Since June 2024, I am co-director of the joint (KTH/SU) Master&amp;rsquo;s program in math.</description>
+    </item>
+    
+  </channel>
+</rss>

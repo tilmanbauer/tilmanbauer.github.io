@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme" content="hugo-academic">
+    <meta name="generator" content="Hugo 0.53" />
+    <meta name="author" content="Tilman Bauer">
+    <meta name="description" content="Associate Professor in mathematics">
+
+    <link rel="stylesheet" href="https://people.kth.se/~tilmanb/css/highlight.min.css">
+    <link rel="stylesheet" href="https://people.kth.se/~tilmanb/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://people.kth.se/~tilmanb/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://people.kth.se/~tilmanb/css/academicons.min.css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono">
+    <link rel="stylesheet" href="https://people.kth.se/~tilmanb/css/hugo-academic.css">
+    
+
+
+    <link rel="shortcut icon" href="https://people.kth.se/~tilmanb/img/favicon.ico" type="image/x-icon">
+    <link rel="canonical" href="https://people.kth.se/~tilmanb/project/plethories-and-topology/">
+
+    <title>Plethories and topology | Tilman Bauer&#39;s math site</title>
+
+</head>
+<body id="top">
+
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+    <div class="container">
+
+        
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://people.kth.se/~tilmanb/">Tilman Bauer&#39;s math site</a>
+        </div>
+
+        
+        <div class="collapse navbar-collapse" id="#navbar-collapse-1">
+
+            
+            <ul class="nav navbar-nav navbar-right">
+                
+                <li class="nav-item"><a href="https://people.kth.se/~tilmanb/#top">Home</a></li>
+                
+                <li class="nav-item"><a href="https://people.kth.se/~tilmanb/#publications">Publications</a></li>
+                
+                <li class="nav-item"><a href="https://people.kth.se/~tilmanb/#teaching">Teaching</a></li>
+                
+                <li class="nav-item"><a href="https://people.kth.se/~tilmanb/#posts">Posts</a></li>
+                
+                <li class="nav-item"><a href="https://people.kth.se/~tilmanb/#projects">Projects</a></li>
+                
+                <li class="nav-item"><a href="https://people.kth.se/~tilmanb/#contact">Contact</a></li>
+                
+            </ul>
+
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+
+    <article class="article article-project" itemscope itemtype="http://schema.org/Article">
+        
+
+        <h1 itemprop="name">Plethories and topology</h1>
+
+        
+
+        <div class="article-style" itemprop="articleBody">
+            <p>A (formal) <em>plethory</em> is a rather complex algebraic structure; for the category-theory minded, it is a (ind-)representable endofunctor $P$ on the category of (graded) commutative $R$-algebras which also carries the structure of a comonoid with respect to composition: it has a comultiplication $P \to P \circ P$ which is coassociative and counital, but not cocommutative. Or to put it into explicit terms: it is an $R$-module $P$ with the following additional data:</p>
+
+<ul>
+<li>a commutative multiplication $P \otimes_R P \to P$,</li>
+<li>a cocommutative &ldquo;coaddition&rdquo; $P \to P \otimes P$,</li>
+<li>a cocommutative &ldquo;comultiplication&rdquo; $P \to P \otimes P$, and</li>
+<li>a &ldquo;composition&rdquo; $P \circ P \to P$, where it&rsquo;s not entirely straightforward to describe what $\circ$ is.</li>
+</ul>
+
+<p>Why would you care for this particular heap of structure? If you are a topologist, you might care because this is exactly the structure that (unstable) cohomology operations carry, for any cohomology theory $E$ such that $E_*E$ is flat over $E$. So not like stable homotopy.</p>
+
+<p>We know a lot about unstable operations in singular cohomology, and we&rsquo;ve gotten quite far without plethories. This is due to a fact that&rsquo;s fairly particular to singular cohomology: <em>the additive operations are a subset of the stable operations</em>, and <em>cohomology rings of Eilenberg-Mac Lane spaces are polynomial rings</em>. These two facts together mean that we can describe all unstable operations as polynomials of a subset of the stable operations, the subset being defined by the excess condition. This is not true, for instance, for Morava $K$-theory.</p>
+
+<p>I am currently trying to get my hands on the structure of the plethory of unstable operations in Morava $K$-theory, and see what I can say about</p>
+
+<ul>
+<li>the $E_2$-term of the unstable Adams-Novikov spectral sequence, and unstable homotopy groups of $K(n)$-local spheres</li>
+<li>The division functor (a la Lannes) in $K(n)$, injective and projective modules over the $K(n)$-plethory, and the $T$-functor</li>
+<li>operations on $E_\infty$-spectra and their algebraic structure</li>
+</ul>
+
+<p>I have a <a href="../../publication/formal-plethories/">published article</a> on the definition and structure of formal plethories and hopefully very soon a preprint on the structure of the $K(n)$-plethory via Dieudonné theory.</p>
+
+        </div>
+    </article>
+
+    <nav>
+    <ul class="pager">
+        
+        <li class="previous"><a href="https://people.kth.se/~tilmanb/project/sseq/"><span aria-hidden="true">&larr;</span> The sseq/luasseq LaTeX package</a></li>
+        
+
+        
+        <li class="next"><a href="https://people.kth.se/~tilmanb/project/devissage/">Dévissage in Waldhausen K-theory <span aria-hidden="true">&rarr;</span></a></li>
+        
+    </ul>
+</nav>
+
+
+</div>
+<footer class="site-footer">
+    <div class="container">
+        <p class="powered-by">
+
+            
+
+            Powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+
+            <span class="pull-right"><a href="#" id="back_to_top"><span class="button_icon"><i class="fa fa-chevron-up fa-2x" aria-hidden="true"></i></span></a></span>
+
+        </p>
+    </div>
+</footer>
+
+        <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
+        <script src="https://people.kth.se/~tilmanb/js/jquery-1.12.3.min.js"></script>
+        <script src="https://people.kth.se/~tilmanb/js/bootstrap.min.js"></script>
+        <script src="https://people.kth.se/~tilmanb/js/hugo-academic.js"></script>
+        
+
+        
+
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.3.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script>
+
+        
+        
+        <script type="text/x-mathjax-config">
+            MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+        </script>
+        <script async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+        
+
+    </body>
+</html>
+

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Tilman Bauer&#39;s math site</title>
+    <link>https://people.kth.se/~tilmanb/publication/</link>
+    <description>Recent content in Publications on Tilman Bauer&#39;s math site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Aug 2025 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://people.kth.se/~tilmanb/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Topological Jacobi Forms</title>
+      <link>https://people.kth.se/~tilmanb/publication/tjf/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.kth.se/~tilmanb/publication/tjf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graded $p$-polar rings and the homology of $\Omega^n\Sigma^nX$</title>
+      <link>https://people.kth.se/~tilmanb/publication/p-polar-iterated-loops/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.kth.se/~tilmanb/publication/p-polar-iterated-loops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the structure of abelian Hopf algebras</title>
+      <link>https://people.kth.se/~tilmanb/publication/abelian-hopf/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.kth.se/~tilmanb/publication/abelian-hopf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graded $p$-polar rings and their abelian-group valued functors</title>
+      <link>https://people.kth.se/~tilmanb/publication/p-polar-graded/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.kth.se/~tilmanb/publication/p-polar-graded/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affine and formal abelian group schemes on $p$-polar rings</title>
+      <link>https://people.kth.se/~tilmanb/publication/p-polar/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.kth.se/~tilmanb/publication/p-polar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The realizability of some finite-length modules over the Steenrod algebra by spaces</title>
+      <link>https://people.kth.se/~tilmanb/publication/joker/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.kth.se/~tilmanb/publication/joker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor products of affine and formal abelian groups</title>
+      <link>https://people.kth.se/~tilmanb/publication/tensor-products/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.kth.se/~tilmanb/publication/tensor-products/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal plethories</title>
+      <link>https://people.kth.se/~tilmanb/publication/formal-plethories/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.kth.se/~tilmanb/publication/formal-plethories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adjoint spaces and flag varieties of $p$-compact groups</title>
+      <link>https://people.kth.se/~tilmanb/publication/adjoint-spaces-and-flag-varieties-of-p-compact-groups/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.kth.se/~tilmanb/publication/adjoint-spaces-and-flag-varieties-of-p-compact-groups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of the Eilenberg-Moore spectral sequence for generalized cohomology theories</title>
+      <link>https://people.kth.se/~tilmanb/publication/eilenberg-moore/</link>
+      <pubDate>Sat, 25 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.kth.se/~tilmanb/publication/eilenberg-moore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$A_\infty$-monads and completion</title>
+      <link>https://people.kth.se/~tilmanb/publication/a-infinity-monads-and-completion/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.kth.se/~tilmanb/publication/a-infinity-monads-and-completion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A simplicial $A_\infty$ operad acting on $R$-resolutions</title>
+      <link>https://people.kth.se/~tilmanb/publication/a-simplicial-a-infinity-operad-acting-on-r-resolutions/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.kth.se/~tilmanb/publication/a-simplicial-a-infinity-operad-acting-on-r-resolutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computation of the homotopy of the spectrum tmf</title>
+      <link>https://people.kth.se/~tilmanb/publication/computation-of-the-homotopy-of-the-spectrum-tmf/</link>
+      <pubDate>Fri, 22 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.kth.se/~tilmanb/publication/computation-of-the-homotopy-of-the-spectrum-tmf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The realizability of local loop spaces as manifolds</title>
+      <link>https://people.kth.se/~tilmanb/publication/the-realizability-of-local-loop-spaces-as-manifolds/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.kth.se/~tilmanb/publication/the-realizability-of-local-loop-spaces-as-manifolds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A finite loop space not rationally equivalent to a compact Lie group</title>
+      <link>https://people.kth.se/~tilmanb/publication/a-finite-loop-space-not-rationally-equivalent-to-a-compact-lie-group/</link>
+      <pubDate>Thu, 01 Jul 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.kth.se/~tilmanb/publication/a-finite-loop-space-not-rationally-equivalent-to-a-compact-lie-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$p$-compact groups as framed manifolds</title>
+      <link>https://people.kth.se/~tilmanb/publication/p-compact-groups-as-framed-manifolds/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.kth.se/~tilmanb/publication/p-compact-groups-as-framed-manifolds/</guid>
+      <description>The original thesis version with more exposition is available here.</description>
+    </item>
+    
+    <item>
+      <title>finite loop spaces are manifolds</title>
+      <link>https://people.kth.se/~tilmanb/publication/finite-loop-spaces-are-manifolds/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.kth.se/~tilmanb/publication/finite-loop-spaces-are-manifolds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An infinite loop space structure on the nerve of spin bordism categories</title>
+      <link>https://people.kth.se/~tilmanb/publication/an-infinite-loop-space-structure-on-the-nerve-of-spin-bordism-categories/</link>
+      <pubDate>Sun, 17 Aug 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.kth.se/~tilmanb/publication/an-infinite-loop-space-structure-on-the-nerve-of-spin-bordism-categories/</guid>
+      <description>There are two theses who led to this publication: my Oxford MSc thesis and my Bonn Diplomarbeit.</description>
+    </item>
+    
+    <item>
+      <title>Elliptic cohomology and projective spaces: a computation</title>
+      <link>https://people.kth.se/~tilmanb/publication/elliptic-cohomology-and-projective-spaces/</link>
+      <pubDate>Thu, 06 Feb 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.kth.se/~tilmanb/publication/elliptic-cohomology-and-projective-spaces/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
