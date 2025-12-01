@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Groups on Tilman Bauer&#39;s math site</title>
-    <link>https://people.kth.se/~tilmanb/tags/groups/</link>
+    <link>https://tilmanbauer.github.io/tags/groups/</link>
     <description>Recent content in Groups on Tilman Bauer&#39;s math site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://people.kth.se/~tilmanb/tags/groups/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tilmanbauer.github.io/tags/groups/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Super-groups at odd primes</title>
-      <link>https://people.kth.se/~tilmanb/project/super-groups-at-odd-primes/</link>
+      <link>https://tilmanbauer.github.io/project/super-groups-at-odd-primes/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/project/super-groups-at-odd-primes/</guid>
+      <guid>https://tilmanbauer.github.io/project/super-groups-at-odd-primes/</guid>
       <description>There is an extensive class of groups with the following properties:
  They have a central element &amp;ldquo;$-1$&amp;rdquo; of order two. This means that $(-1)a=a(-1)$ for all group elements $a$, and $(-1)^2=1$, the identity element. They have a homomorphism &amp;ldquo;det&amp;rdquo; to the group $\{\pm1\}$ with two elements such that $\det(-1)=1$.  Groups with this structure are called super-groups (by me).
 Here are some examples:

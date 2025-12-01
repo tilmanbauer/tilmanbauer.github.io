@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tilman Bauer&#39;s math site</title>
-    <link>https://people.kth.se/~tilmanb/</link>
+    <link>https://tilmanbauer.github.io/</link>
     <description>Recent content on Tilman Bauer&#39;s math site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://people.kth.se/~tilmanb/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tilmanbauer.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Topics in Mathematics IV: Lie groups and Lie algebras</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2025-2026/sf2724_lie_groups/</link>
+      <link>https://tilmanbauer.github.io/teaching/2025-2026/sf2724_lie_groups/</link>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2025-2026/sf2724_lie_groups/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2025-2026/sf2724_lie_groups/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linjär algebra (SF1672)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2025-2026/sf1672_linjaer_algebra/</link>
+      <link>https://tilmanbauer.github.io/teaching/2025-2026/sf1672_linjaer_algebra/</link>
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2025-2026/sf1672_linjaer_algebra/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2025-2026/sf1672_linjaer_algebra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Topological Jacobi Forms</title>
-      <link>https://people.kth.se/~tilmanb/publication/tjf/</link>
+      <link>https://tilmanbauer.github.io/publication/tjf/</link>
       <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/publication/tjf/</guid>
+      <guid>https://tilmanbauer.github.io/publication/tjf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>about</title>
-      <link>https://people.kth.se/~tilmanb/home/about/</link>
+      <link>https://tilmanbauer.github.io/home/about/</link>
       <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/home/about/</guid>
+      <guid>https://tilmanbauer.github.io/home/about/</guid>
       <description>Biography I&amp;rsquo;m an algebraic topologist working at Kungliga Tekniska Högskolan (KTH) in Stockholm. Previously, I&amp;rsquo;ve worked in the same racket in Amsterdam and Münster; I got my PhD at MIT and studied in Oxford and Bonn.
 I spend most of my days doing research, teaching, and organizing things at the department and outside.
 At Stockholm, we&amp;rsquo;re collaborating with Stockholms universitet (SU) in all matters research and graduate teaching. Since June 2024, I am co-director of the joint (KTH/SU) Master&amp;rsquo;s program in math.</description>
@@ -51,154 +51,154 @@ At Stockholm, we&amp;rsquo;re collaborating with Stockholms universitet (SU) in 
     
     <item>
       <title>Graded $p$-polar rings and the homology of $\Omega^n\Sigma^nX$</title>
-      <link>https://people.kth.se/~tilmanb/publication/p-polar-iterated-loops/</link>
+      <link>https://tilmanbauer.github.io/publication/p-polar-iterated-loops/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/publication/p-polar-iterated-loops/</guid>
+      <guid>https://tilmanbauer.github.io/publication/p-polar-iterated-loops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linjär algebra (SF1672)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2024-2025/sf1672_linjaer_algebra/</link>
+      <link>https://tilmanbauer.github.io/teaching/2024-2025/sf1672_linjaer_algebra/</link>
       <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2024-2025/sf1672_linjaer_algebra/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2024-2025/sf1672_linjaer_algebra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characteristic classes (SF3709)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2024-2025/characteristic_classes/</link>
+      <link>https://tilmanbauer.github.io/teaching/2024-2025/characteristic_classes/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2024-2025/characteristic_classes/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2024-2025/characteristic_classes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algebraic Topology (SF2750)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2023-2024/sf2750_algebraic_topology/</link>
+      <link>https://tilmanbauer.github.io/teaching/2023-2024/sf2750_algebraic_topology/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2023-2024/sf2750_algebraic_topology/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2023-2024/sf2750_algebraic_topology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flervariabelanalys (SF1626) CELTE CMEDT</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2022-2023/sf1626_celte_cmedt/</link>
+      <link>https://tilmanbauer.github.io/teaching/2022-2023/sf1626_celte_cmedt/</link>
       <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2022-2023/sf1626_celte_cmedt/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2022-2023/sf1626_celte_cmedt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linjär algebra (SF1672)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2022-2023/sf1672_linjaer_algebra/</link>
+      <link>https://tilmanbauer.github.io/teaching/2022-2023/sf1672_linjaer_algebra/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2022-2023/sf1672_linjaer_algebra/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2022-2023/sf1672_linjaer_algebra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The history of mathematics (SF2719, SF2725)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2022-2023/sf2719_the_history_of_mathematics/</link>
+      <link>https://tilmanbauer.github.io/teaching/2022-2023/sf2719_the_history_of_mathematics/</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2022-2023/sf2719_the_history_of_mathematics/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2022-2023/sf2719_the_history_of_mathematics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the structure of abelian Hopf algebras</title>
-      <link>https://people.kth.se/~tilmanb/publication/abelian-hopf/</link>
+      <link>https://tilmanbauer.github.io/publication/abelian-hopf/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/publication/abelian-hopf/</guid>
+      <guid>https://tilmanbauer.github.io/publication/abelian-hopf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algebraic Topology (SF2750)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2021-2022/sf2750_algebraic_topology/</link>
+      <link>https://tilmanbauer.github.io/teaching/2021-2022/sf2750_algebraic_topology/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2021-2022/sf2750_algebraic_topology/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2021-2022/sf2750_algebraic_topology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graded $p$-polar rings and their abelian-group valued functors</title>
-      <link>https://people.kth.se/~tilmanb/publication/p-polar-graded/</link>
+      <link>https://tilmanbauer.github.io/publication/p-polar-graded/</link>
       <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/publication/p-polar-graded/</guid>
+      <guid>https://tilmanbauer.github.io/publication/p-polar-graded/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Affine and formal abelian group schemes on $p$-polar rings</title>
-      <link>https://people.kth.se/~tilmanb/publication/p-polar/</link>
+      <link>https://tilmanbauer.github.io/publication/p-polar/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/publication/p-polar/</guid>
+      <guid>https://tilmanbauer.github.io/publication/p-polar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characteristic classes (SF3709)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2021-2022/characteristic_classes/</link>
+      <link>https://tilmanbauer.github.io/teaching/2021-2022/characteristic_classes/</link>
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2021-2022/characteristic_classes/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2021-2022/characteristic_classes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The history of mathematics (SF2719, SF2725)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2021-2022/sf2719_the_history_of_mathematics/</link>
+      <link>https://tilmanbauer.github.io/teaching/2021-2022/sf2719_the_history_of_mathematics/</link>
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2021-2022/sf2719_the_history_of_mathematics/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2021-2022/sf2719_the_history_of_mathematics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flervariabelanalys (SF1626) CBIOT CLGYM CMATD CMETE CTKEM TIDAB TIEDB</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2020-2021/sf1626_cbiot_clgym_cmatd_cmete-ctkem/</link>
+      <link>https://tilmanbauer.github.io/teaching/2020-2021/sf1626_cbiot_clgym_cmatd_cmete-ctkem/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2020-2021/sf1626_cbiot_clgym_cmatd_cmete-ctkem/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2020-2021/sf1626_cbiot_clgym_cmatd_cmete-ctkem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential Topology (SF2704, Topics in Mathematics)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2020-2021/sf2704_differential_topology/</link>
+      <link>https://tilmanbauer.github.io/teaching/2020-2021/sf2704_differential_topology/</link>
       <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2020-2021/sf2704_differential_topology/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2020-2021/sf2704_differential_topology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flervariabelanalys (SF1626) CENMI CDEPR</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2020-2021/sf1626_cdepr_cenmi/</link>
+      <link>https://tilmanbauer.github.io/teaching/2020-2021/sf1626_cdepr_cenmi/</link>
       <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2020-2021/sf1626_cdepr_cenmi/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2020-2021/sf1626_cdepr_cenmi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Super-groups at odd primes</title>
-      <link>https://people.kth.se/~tilmanb/project/super-groups-at-odd-primes/</link>
+      <link>https://tilmanbauer.github.io/project/super-groups-at-odd-primes/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/project/super-groups-at-odd-primes/</guid>
+      <guid>https://tilmanbauer.github.io/project/super-groups-at-odd-primes/</guid>
       <description>There is an extensive class of groups with the following properties:
  They have a central element &amp;ldquo;$-1$&amp;rdquo; of order two. This means that $(-1)a=a(-1)$ for all group elements $a$, and $(-1)^2=1$, the identity element. They have a homomorphism &amp;ldquo;det&amp;rdquo; to the group $\{\pm1\}$ with two elements such that $\det(-1)=1$.  Groups with this structure are called super-groups (by me).
 Here are some examples:
@@ -207,128 +207,128 @@ Here are some examples:
     
     <item>
       <title>p-polar rings</title>
-      <link>https://people.kth.se/~tilmanb/project/p-polar-rings/</link>
+      <link>https://tilmanbauer.github.io/project/p-polar-rings/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/project/p-polar-rings/</guid>
+      <guid>https://tilmanbauer.github.io/project/p-polar-rings/</guid>
       <description>What if one modified the definition of a commutative ring to only allow for $p$-fold multiplications instead of binary multiplications? This is the starting point of this project. There are various flavors of such $p$-polar rings, as I call them. The most basic one is the following:
 Definition. Let $k$ be a ring and $p$ be a prime. A $p$-polar $k$-algebra is a $k$-module $R$ together with a map $$ \mu\colon R \times \cdots \times R \to R \quad \text{(p factors)} $$ such that:</description>
     </item>
     
     <item>
       <title>The realizability of some finite-length modules over the Steenrod algebra by spaces</title>
-      <link>https://people.kth.se/~tilmanb/publication/joker/</link>
+      <link>https://tilmanbauer.github.io/publication/joker/</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/publication/joker/</guid>
+      <guid>https://tilmanbauer.github.io/publication/joker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algebraic Topology (SF2750)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2019-2020/sf2750_algebraic_topology/</link>
+      <link>https://tilmanbauer.github.io/teaching/2019-2020/sf2750_algebraic_topology/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2019-2020/sf2750_algebraic_topology/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2019-2020/sf2750_algebraic_topology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flervariabelanalys (SF1626) CENMI CDEPR</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2019-2020/sf1626_cmast_cenmi/</link>
+      <link>https://tilmanbauer.github.io/teaching/2019-2020/sf1626_cmast_cenmi/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2019-2020/sf1626_cmast_cenmi/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2019-2020/sf1626_cmast_cenmi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tensor products of affine and formal abelian groups</title>
-      <link>https://people.kth.se/~tilmanb/publication/tensor-products/</link>
+      <link>https://tilmanbauer.github.io/publication/tensor-products/</link>
       <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/publication/tensor-products/</guid>
+      <guid>https://tilmanbauer.github.io/publication/tensor-products/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The history of mathematics (SF2719, SF2725)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2019-2020/sf2719_the_history_of_mathematics/</link>
+      <link>https://tilmanbauer.github.io/teaching/2019-2020/sf2719_the_history_of_mathematics/</link>
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2019-2020/sf2719_the_history_of_mathematics/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2019-2020/sf2719_the_history_of_mathematics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characteristic classes (SF3709)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2018-2019/characteristic_classes/</link>
+      <link>https://tilmanbauer.github.io/teaching/2018-2019/characteristic_classes/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2018-2019/characteristic_classes/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2018-2019/characteristic_classes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algebra och Geometri (SF1624) CDATE CLGYM</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2018-2019/sf1624_cdate_clgym/</link>
+      <link>https://tilmanbauer.github.io/teaching/2018-2019/sf1624_cdate_clgym/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2018-2019/sf1624_cdate_clgym/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2018-2019/sf1624_cdate_clgym/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The history of mathematics (SF2719, SF2725)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2018-2019/sf2719_the_history_of_mathematics/</link>
+      <link>https://tilmanbauer.github.io/teaching/2018-2019/sf2719_the_history_of_mathematics/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2018-2019/sf2719_the_history_of_mathematics/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2018-2019/sf2719_the_history_of_mathematics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential Topology (SF2704, Topics in Mathematics)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2017-2018/sf2704_differential_topology/</link>
+      <link>https://tilmanbauer.github.io/teaching/2017-2018/sf2704_differential_topology/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2017-2018/sf2704_differential_topology/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2017-2018/sf2704_differential_topology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Groups and rings (SF1678)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2017-2018/sf1678/</link>
+      <link>https://tilmanbauer.github.io/teaching/2017-2018/sf1678/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2017-2018/sf1678/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2017-2018/sf1678/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algebra och Geometri (SF1624) CMAST CBIOT</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2017-2018/sf1624_cmast_cbiot/</link>
+      <link>https://tilmanbauer.github.io/teaching/2017-2018/sf1624_cmast_cbiot/</link>
       <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2017-2018/sf1624_cmast_cbiot/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2017-2018/sf1624_cmast_cbiot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matematikens historia (SF2719)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2017-2018/sf2719_the_history_of_mathematics/</link>
+      <link>https://tilmanbauer.github.io/teaching/2017-2018/sf2719_the_history_of_mathematics/</link>
       <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2017-2018/sf2719_the_history_of_mathematics/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2017-2018/sf2719_the_history_of_mathematics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dévissage in Waldhausen K-theory</title>
-      <link>https://people.kth.se/~tilmanb/project/devissage/</link>
+      <link>https://tilmanbauer.github.io/project/devissage/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/project/devissage/</guid>
+      <guid>https://tilmanbauer.github.io/project/devissage/</guid>
       <description>The aim of this project is to generalize Quillen&amp;rsquo;s dévissage theorem in algebraic K-theory:
 Theorem. Let $C$ be an exact subcategory of an abelian category $D$, closed under subobjects and quotients. If every object of $D$ has a finite filtration with filtration quotients in $C$, then $KC \simeq KD$.
 The goal of the proposed project is to prove a generalized dévissage theorem in Waldhausen K-theory with methods that have not been previously applied to this question.</description>
@@ -336,37 +336,37 @@ The goal of the proposed project is to prove a generalized dévissage theorem in
     
     <item>
       <title>Algebraic Topology (SF3630)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2016-2017/algebraic_topology/</link>
+      <link>https://tilmanbauer.github.io/teaching/2016-2017/algebraic_topology/</link>
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2016-2017/algebraic_topology/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2016-2017/algebraic_topology/</guid>
       <description>This PhD level course continues where the advanced level course SF2735/MM8020 Homological Algebra and Algebraic Topology left off. It covers homotopy theory and CW-complexes, cohomology operations, gives an introduction to stable homotopy theory, and then proceeds with either bordism theory or K-theory, depending on the participants&amp;rsquo; preferences. The intended audience of this course is PhD students of all areas of mathematics.</description>
     </item>
     
     <item>
       <title>Groups and rings (SF1678)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2016-2017/sf1678/</link>
+      <link>https://tilmanbauer.github.io/teaching/2016-2017/sf1678/</link>
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2016-2017/sf1678/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2016-2017/sf1678/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plethories and topology</title>
-      <link>https://people.kth.se/~tilmanb/project/plethories-and-topology/</link>
+      <link>https://tilmanbauer.github.io/project/plethories-and-topology/</link>
       <pubDate>Fri, 03 Jun 2016 14:38:39 +0200</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/project/plethories-and-topology/</guid>
+      <guid>https://tilmanbauer.github.io/project/plethories-and-topology/</guid>
       <description>A (formal) plethory is a rather complex algebraic structure; for the category-theory minded, it is a (ind-)representable endofunctor $P$ on the category of (graded) commutative $R$-algebras which also carries the structure of a comonoid with respect to composition: it has a comultiplication $P \to P \circ P$ which is coassociative and counital, but not cocommutative. Or to put it into explicit terms: it is an $R$-module $P$ with the following additional data:</description>
     </item>
     
     <item>
       <title>New web page</title>
-      <link>https://people.kth.se/~tilmanb/post/my-new-page/</link>
+      <link>https://tilmanbauer.github.io/post/my-new-page/</link>
       <pubDate>Thu, 02 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/post/my-new-page/</guid>
+      <guid>https://tilmanbauer.github.io/post/my-new-page/</guid>
       <description>&lt;p&gt;So here it is, my new web page. Overdue, as I noticed that about half of the links of my old web page were dead&amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;This new one is built using &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, a static website generator.&lt;/p&gt;</description>
@@ -374,438 +374,438 @@ The goal of the proposed project is to prove a generalized dévissage theorem in
     
     <item>
       <title>Flervariabelanalys (SF1626) CMAST/CENMI</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2015-2016/sf1626_cmast_cenmi/</link>
+      <link>https://tilmanbauer.github.io/teaching/2015-2016/sf1626_cmast_cenmi/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2015-2016/sf1626_cmast_cenmi/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2015-2016/sf1626_cmast_cenmi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algebra and Geometry (SF1624) – examinator</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2015-2016/sf1624/</link>
+      <link>https://tilmanbauer.github.io/teaching/2015-2016/sf1624/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2015-2016/sf1624/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2015-2016/sf1624/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Homological Algebra and Algebraic Topology (SF2735)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2015-2016/sf2735_haat/</link>
+      <link>https://tilmanbauer.github.io/teaching/2015-2016/sf2735_haat/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2015-2016/sf2735_haat/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2015-2016/sf2735_haat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Category theory (reading course)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2014-2015/category_theory/</link>
+      <link>https://tilmanbauer.github.io/teaching/2014-2015/category_theory/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2014-2015/category_theory/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2014-2015/category_theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algebra and Geometry through projective spaces (SF2724)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2014-2015/projective_spaces/</link>
+      <link>https://tilmanbauer.github.io/teaching/2014-2015/projective_spaces/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2014-2015/projective_spaces/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2014-2015/projective_spaces/</guid>
       <description>bla</description>
     </item>
     
     <item>
       <title>Characteristic classes (SF3709)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2014-2015/characteristic_classes/</link>
+      <link>https://tilmanbauer.github.io/teaching/2014-2015/characteristic_classes/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2014-2015/characteristic_classes/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2014-2015/characteristic_classes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flervariabelanalys (SF1626) CENMI CMAST</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2014-2015/sf1626_cmast_cenmi/</link>
+      <link>https://tilmanbauer.github.io/teaching/2014-2015/sf1626_cmast_cenmi/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2014-2015/sf1626_cmast_cenmi/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2014-2015/sf1626_cmast_cenmi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Groups and rings (SF2729)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2014-2015/sf2729/</link>
+      <link>https://tilmanbauer.github.io/teaching/2014-2015/sf2729/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2014-2015/sf2729/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2014-2015/sf2729/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Formal plethories</title>
-      <link>https://people.kth.se/~tilmanb/publication/formal-plethories/</link>
+      <link>https://tilmanbauer.github.io/publication/formal-plethories/</link>
       <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/publication/formal-plethories/</guid>
+      <guid>https://tilmanbauer.github.io/publication/formal-plethories/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adjoint spaces and flag varieties of $p$-compact groups</title>
-      <link>https://people.kth.se/~tilmanb/publication/adjoint-spaces-and-flag-varieties-of-p-compact-groups/</link>
+      <link>https://tilmanbauer.github.io/publication/adjoint-spaces-and-flag-varieties-of-p-compact-groups/</link>
       <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/publication/adjoint-spaces-and-flag-varieties-of-p-compact-groups/</guid>
+      <guid>https://tilmanbauer.github.io/publication/adjoint-spaces-and-flag-varieties-of-p-compact-groups/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convergence of the Eilenberg-Moore spectral sequence for generalized cohomology theories</title>
-      <link>https://people.kth.se/~tilmanb/publication/eilenberg-moore/</link>
+      <link>https://tilmanbauer.github.io/publication/eilenberg-moore/</link>
       <pubDate>Sat, 25 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/publication/eilenberg-moore/</guid>
+      <guid>https://tilmanbauer.github.io/publication/eilenberg-moore/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differentialekvationer II (SF1634) CFATE – övningar</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2013-2014/sf1634_cfate/</link>
+      <link>https://tilmanbauer.github.io/teaching/2013-2014/sf1634_cfate/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2013-2014/sf1634_cfate/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2013-2014/sf1634_cfate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The sseq/luasseq LaTeX package</title>
-      <link>https://people.kth.se/~tilmanb/project/sseq/</link>
+      <link>https://tilmanbauer.github.io/project/sseq/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/project/sseq/</guid>
+      <guid>https://tilmanbauer.github.io/project/sseq/</guid>
       <description>I wrote a LaTeX package that lets you draw spectral sequence pages like the above one with relative ease. By the way, this is the beginning of the Adams-Novikov spectral sequence converging to the homotopy groups of tmf at the prime 3.
 There are two versions available: sseq and luasseq. The first one (the current version is 2.01 as of September 6, 2013) will run on any TeX installation, but it is slow and lacks some additional features present in luasseq.</description>
     </item>
     
     <item>
       <title>Groups and rings (SF2729)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2013-2014/sf2729/</link>
+      <link>https://tilmanbauer.github.io/teaching/2013-2014/sf2729/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2013-2014/sf2729/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2013-2014/sf2729/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Homological Algebra and Algebraic Topology (SF2735)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2013-2014/sf2735_haat/</link>
+      <link>https://tilmanbauer.github.io/teaching/2013-2014/sf2735_haat/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2013-2014/sf2735_haat/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2013-2014/sf2735_haat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differentialekvationer II (SF1634) CFATE – övningar</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2012-2013/sf1634_cfate/</link>
+      <link>https://tilmanbauer.github.io/teaching/2012-2013/sf1634_cfate/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2012-2013/sf1634_cfate/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2012-2013/sf1634_cfate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Galois theory (SF2732)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2012-2013/sf2732_galois_theory/</link>
+      <link>https://tilmanbauer.github.io/teaching/2012-2013/sf2732_galois_theory/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2012-2013/sf2732_galois_theory/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2012-2013/sf2732_galois_theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Groups and rings (SF2729)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2012-2013/sf2729/</link>
+      <link>https://tilmanbauer.github.io/teaching/2012-2013/sf2729/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2012-2013/sf2729/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2012-2013/sf2729/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Galois theory (exercise sessions)</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2012-2013/galois_theory/</link>
+      <link>https://tilmanbauer.github.io/teaching/2012-2013/galois_theory/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2012-2013/galois_theory/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2012-2013/galois_theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis II for students of &#34;Business Mathematics and Informatics&#34;</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2011-2012/analysis-ii-bmi/</link>
+      <link>https://tilmanbauer.github.io/teaching/2011-2012/analysis-ii-bmi/</link>
       <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2011-2012/analysis-ii-bmi/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2011-2012/analysis-ii-bmi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linear algebra for students of &#34;Science, Business, and Innovation&#34; and medical sciences</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2011-2012/linear-algebra-sbi/</link>
+      <link>https://tilmanbauer.github.io/teaching/2011-2012/linear-algebra-sbi/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2011-2012/linear-algebra-sbi/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2011-2012/linear-algebra-sbi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Calculus 2 for Business Analytics and Econometry students</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2011-2012/calculus-2-bae/</link>
+      <link>https://tilmanbauer.github.io/teaching/2011-2012/calculus-2-bae/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2011-2012/calculus-2-bae/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2011-2012/calculus-2-bae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar on algebraic K-theory for Master&#39;s and PhD students</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2011-2012/algebraic-k-theory/</link>
+      <link>https://tilmanbauer.github.io/teaching/2011-2012/algebraic-k-theory/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2011-2012/algebraic-k-theory/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2011-2012/algebraic-k-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Topology 2 for 3rd year Bachelor students and Master&#39;s students</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2011-2012/topology-2/</link>
+      <link>https://tilmanbauer.github.io/teaching/2011-2012/topology-2/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2011-2012/topology-2/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2011-2012/topology-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verzamelingen en algebra for freshmen in mathematics</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2011-2012/va/</link>
+      <link>https://tilmanbauer.github.io/teaching/2011-2012/va/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2011-2012/va/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2011-2012/va/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algebraic topology 2 for 3rd year Bachelor students and Master&#39;s students</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2009-2010/algebraic-topology/</link>
+      <link>https://tilmanbauer.github.io/teaching/2009-2010/algebraic-topology/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2009-2010/algebraic-topology/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2009-2010/algebraic-topology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar in mathematics for Masters students</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2010-2011/master-seminar/</link>
+      <link>https://tilmanbauer.github.io/teaching/2010-2011/master-seminar/</link>
       <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2010-2011/master-seminar/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2010-2011/master-seminar/</guid>
       <description>Overview The aim of this compulsory seminar for Master students at the VU and at the UvA is twofold: firstly, to make you acquainted with working with original, classical papers and extracting the essence of (an aspect of) it that is suitable to be presented in a talk, and secondly, to practice giving good mathematical talks to a mathematical audience. The format will be as follows: students form small work groups (around 4 students in each group) with a common interest in a particular mathematical direction.</description>
     </item>
     
     <item>
       <title>Topological K-theory, for Masters students</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2010-2011/topological-k-theory/</link>
+      <link>https://tilmanbauer.github.io/teaching/2010-2011/topological-k-theory/</link>
       <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2010-2011/topological-k-theory/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2010-2011/topological-k-theory/</guid>
       <description>&amp;lt;h2&amp;gt;Overview&amp;lt;/h2&amp;gt; &amp;lt;p&amp;gt;In algebraic topology, one tries to study topological spaces with the help of algebraic invariants such as the fundamental group or homology groups. (Topological) K-theory is also such an invariant (in fact, a generalized cohomology theory) with a very different flavor. The starting point of K-theory is the study of &amp;lt;em&amp;gt;vector bundles. &amp;lt;/em&amp;gt;A vector bundle is a family of (real or complex) vector spaces parametrized by the points of a topological space.</description>
     </item>
     
     <item>
       <title>Verzamelingen en algebra for freshmen in mathematics</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2010-2011/va/</link>
+      <link>https://tilmanbauer.github.io/teaching/2010-2011/va/</link>
       <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2010-2011/va/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2010-2011/va/</guid>
       <description></description>
     </item>
     
     <item>
       <title>$A_\infty$-monads and completion</title>
-      <link>https://people.kth.se/~tilmanb/publication/a-infinity-monads-and-completion/</link>
+      <link>https://tilmanbauer.github.io/publication/a-infinity-monads-and-completion/</link>
       <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/publication/a-infinity-monads-and-completion/</guid>
+      <guid>https://tilmanbauer.github.io/publication/a-infinity-monads-and-completion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beyond p-compact groups II</title>
-      <link>https://people.kth.se/~tilmanb/post/beyond-p-compact-groups/</link>
+      <link>https://tilmanbauer.github.io/post/beyond-p-compact-groups/</link>
       <pubDate>Thu, 25 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/post/beyond-p-compact-groups/</guid>
+      <guid>https://tilmanbauer.github.io/post/beyond-p-compact-groups/</guid>
       <description>&lt;h2&gt;Workshop on the ramifications of p-compact group theory and unstable chromatic homotopy, VU University Amsterdam,
 March 27-April 1, 2010&lt;/h2&gt;</description>
     </item>
     
     <item>
       <title>Seminar in mathematics for Masters students</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2009-2010/master-seminar/</link>
+      <link>https://tilmanbauer.github.io/teaching/2009-2010/master-seminar/</link>
       <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2009-2010/master-seminar/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2009-2010/master-seminar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verzamelingen en algebra for freshmen in mathematics</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2009-2010/va/</link>
+      <link>https://tilmanbauer.github.io/teaching/2009-2010/va/</link>
       <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2009-2010/va/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2009-2010/va/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A simplicial $A_\infty$ operad acting on $R$-resolutions</title>
-      <link>https://people.kth.se/~tilmanb/publication/a-simplicial-a-infinity-operad-acting-on-r-resolutions/</link>
+      <link>https://tilmanbauer.github.io/publication/a-simplicial-a-infinity-operad-acting-on-r-resolutions/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/publication/a-simplicial-a-infinity-operad-acting-on-r-resolutions/</guid>
+      <guid>https://tilmanbauer.github.io/publication/a-simplicial-a-infinity-operad-acting-on-r-resolutions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algebra 2 – teaching assistant</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2008-2009/algebra-2/</link>
+      <link>https://tilmanbauer.github.io/teaching/2008-2009/algebra-2/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2008-2009/algebra-2/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2008-2009/algebra-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Basiswiskunde II for students of artificial intelligence</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2008-2009/basiswiskunde-ii/</link>
+      <link>https://tilmanbauer.github.io/teaching/2008-2009/basiswiskunde-ii/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2008-2009/basiswiskunde-ii/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2008-2009/basiswiskunde-ii/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reading seminar in topology: Operads and loop spaces</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2008-2009/operad-seminar/</link>
+      <link>https://tilmanbauer.github.io/teaching/2008-2009/operad-seminar/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2008-2009/operad-seminar/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2008-2009/operad-seminar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algebraische Topologie I – Vorlesungsbetreuung</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2007-2008/algtopi/</link>
+      <link>https://tilmanbauer.github.io/teaching/2007-2008/algtopi/</link>
       <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2007-2008/algtopi/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2007-2008/algtopi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reading seminar on homotopy theory: Spectra and the Adams spectral sequence</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2008-2009/spectra-seminar/</link>
+      <link>https://tilmanbauer.github.io/teaching/2008-2009/spectra-seminar/</link>
       <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2008-2009/spectra-seminar/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2008-2009/spectra-seminar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computation of the homotopy of the spectrum tmf</title>
-      <link>https://people.kth.se/~tilmanb/publication/computation-of-the-homotopy-of-the-spectrum-tmf/</link>
+      <link>https://tilmanbauer.github.io/publication/computation-of-the-homotopy-of-the-spectrum-tmf/</link>
       <pubDate>Fri, 22 Feb 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/publication/computation-of-the-homotopy-of-the-spectrum-tmf/</guid>
+      <guid>https://tilmanbauer.github.io/publication/computation-of-the-homotopy-of-the-spectrum-tmf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vorkurs Mathematik</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2007-2008/vorkurs/</link>
+      <link>https://tilmanbauer.github.io/teaching/2007-2008/vorkurs/</link>
       <pubDate>Sat, 01 Sep 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2007-2008/vorkurs/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2007-2008/vorkurs/</guid>
       <description>&amp;Uuml;berblick  Vorlesungszeit:Di 10:15-12:00, Do 10:15-12:00; erster Termin 4. 9. Ort:Aula am Aasee (Plan) &amp;Uuml;bungsgruppen:Di, Do wahlweise 8:30-10:00 oder 13:15-14:45 Voraussetzungen:keine Sprechstunde:Mathematisches Institut, Einsteinstr. 62, Zi 504, Di 13:30-14:30 und Do 9:00-10:00    &amp;Uuml;bungsgruppen  Alle &amp;Uuml;bungsgruppen finden in der Scharnhorststr. 100 statt; den Ort Ihrer &amp;Uuml;bungsgruppe finden Sie ausgeh&amp;auml;ngt.   Vorkurs Mathematik  Der Vorkurs Mathematik findet vom 4. 9. bis zum 27. 9. jeweils dienstags und donnerstags statt und besteht aus einer Vorlesung (10:15-12:00) und einem Tutorium in einer &amp;Uuml;bungsgruppe (im Uni-Slang kurz: einer &amp;Uuml;bung).</description>
     </item>
     
     <item>
       <title>Proseminar Kombinatorische Spiele</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2006-2007/kombinatorische-spiele/</link>
+      <link>https://tilmanbauer.github.io/teaching/2006-2007/kombinatorische-spiele/</link>
       <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2006-2007/kombinatorische-spiele/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2006-2007/kombinatorische-spiele/</guid>
       <description>&amp;Uuml;berblick  Zeit:Mo 16:00-18:00 Ort:Seminarraum SR5 Vorbesprechung:Di, 30. Januar 2007, 13:00 s.t., SR5 Voraussetzungen:keine Zuordnung:Diplom-Mathematik Sprechstunde:Zi 504, jederzeit nach Vereinbarung    Allgemeine Informationen zum Proseminar &amp;bdquo;Kombinatorische Spiele&amp;ldquo;  Ein Proseminar ist ein Seminar f&amp;uuml;r Studenten im Grundstudium. Dieses spezielle Proseminar richtet sich in erster Linie an Diplom-Mathematik-Studenten; falls Pl&amp;auml;tze &amp;uuml;brig bleiben, k&amp;ouml;nnen auch Studenten anderer Hauptf&amp;auml;cher oder Abschl&amp;uuml;sse teilnehmen. F&amp;uuml;r die erfolgreiche Teilnahme an dem Proseminar gibt es einen Proseminar-Schein, der in der Anmeldung f&amp;uuml;r die Vordiplomspr&amp;uuml;fung einen der Grundvorlesungsscheine ersetzen kann.</description>
     </item>
     
     <item>
       <title>Lineare Algebra II – Vorlesungsbetreuung</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2006-2007/la-2/</link>
+      <link>https://tilmanbauer.github.io/teaching/2006-2007/la-2/</link>
       <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2006-2007/la-2/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2006-2007/la-2/</guid>
       <description>&amp;Uuml;berblick  Vorlesungszeit:Di 8:00-10:00, Fr 8:00-10:00; erste Vorlesung 3. 4. Ort:Vorlesungssaal M2 &amp;Uuml;bungsgruppen:Do 8-10; Do 12-14; Do 14-16; Fr 10-12; Fr 12-14; Fr 14-16; Fr 16-18 Voraussetzungen:keine Zuordnung:Diplom-Mathematik, Diplom-Informatik, Bachelor Sprechstunde SB:Zi 516, Fr. 10:30 Sprechstunde TB:Zi 504, jederzeit nach Vereinbarung Abschlussklausur:Sa, 30. 6. 2007, 9:00-12:00    &amp;Uuml;bungsgruppen   &amp;Uuml;bungsleiter&amp;Uuml;bungszeitenRaumBriefkasten Thomas AlbersDo 14-16SR 1137 Martin EngbersFr 10-12SR 7132 Christian KappenDo 8-10SR 5134 Philipp K&amp;uuml;hlFr 10-12BP136 Katharina NeumannDo 8-10SR 0131 Gunnar OehlschaegelDo 12-14, Do 14-16SR 4, BP135 Jan RichterFr 12-14SR 8139 Jakob RittbergFr 12-14SR 5141 Franziska SchneiderDo 12-14SR C138 Christian WahleFr 10-12SR 8133 &amp;nbsp; Michael Schmeing (offene &amp;Uuml;bung)Fr 14-16 SR 5-  Bemerkung: BP = Blauer Pavillon, das Geb&amp;auml;ude hinter der Einsteinstr.</description>
     </item>
     
     <item>
       <title>Lineare Algebra I – Vorlesungsbetreuung</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2006-2007/la-1/</link>
+      <link>https://tilmanbauer.github.io/teaching/2006-2007/la-1/</link>
       <pubDate>Sun, 01 Oct 2006 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2006-2007/la-1/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2006-2007/la-1/</guid>
       <description>&amp;Uuml;berblick  Vorlesungszeit:Di 8:00-10:00, Fr 8:00-10:00 Ort:Vorlesungssaal M2 &amp;Uuml;bungsgruppen:Do 10-12; Do 12-14; Do 14-16; Do 16-18; Fr 10-12; Fr 12-14; Fr 14-16 Voraussetzungen:keine Zuordnung:Diplom-Mathematik, Diplom-Informatik, Bachelor Sprechstunde SB:Zi 516, Fr. 10:30 Sprechstunde TB:Zi 504, jederzeit nach Vereinbarung Abschlussklausur:27. 1. 2007, 9:00-12:00, H&amp;ouml;rsaalgeb&amp;auml;ude  
  &amp;Uuml;bungsgruppen   &amp;Uuml;bungsleiter&amp;Uuml;bungszeitenRaumBriefkasten Thomas AlbersFr10SR4F44 Magdalena BoosDo10SR5F45 Till BreuerFr12SR5F46 Christina ElbergDo16SR5F47 Ann-Kristin JuschkaDo14SRCF48 Christian LigudaFr10SR2F49 Dominik MenningDo10SR7F50 Michael SchmeingDo16SR1F51 Franziska SchneiderDo12SR7F52 Jan StahmannFr10 + Fr12SR7 + SR2F53 Carsten SzardeningsFr14SR5F54    Allgemeine Informationen zu L.</description>
     </item>
     
     <item>
       <title>Oberseminar Mumford-Vermutung</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2006-2007/mumford-conjecture/</link>
+      <link>https://tilmanbauer.github.io/teaching/2006-2007/mumford-conjecture/</link>
       <pubDate>Sun, 01 Oct 2006 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2006-2007/mumford-conjecture/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2006-2007/mumford-conjecture/</guid>
       <description>In diesem Semester studieren wir den Beweis der Mumford-Vermutung nach Madsen-Weiss.  Zeitplan   Alle Vortr&amp;auml;ge finden statt im Seminarraum SR 5 im 5. Stockwerk des Mathe-Instituts in der Einsteinstra&amp;szlig;e.
  Mo, 16. 10. 2006Kein Vortrag Mo, 23. 10. 2006Kein Vortrag - Rothenberge-Treffen Mo, 30. 10. 2006, 14:00Michael JoachimEinf&amp;uuml;hrung in die Mumford-Vermutung Mo, 6. 11. 2006, 14:00Johannes EbertDie Thomspektren und die Abbildung &amp;alpha; Mo, 13. 11. 2006, 14:00Tibor MackoDie Kobordismuskategorien Mo, 20.</description>
     </item>
     
     <item>
       <title>Funktionentheorie – Vorlesungsbetreuung</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2005-2006/funktionentheorie/</link>
+      <link>https://tilmanbauer.github.io/teaching/2005-2006/funktionentheorie/</link>
       <pubDate>Sat, 01 Apr 2006 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2005-2006/funktionentheorie/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2005-2006/funktionentheorie/</guid>
       <description>&amp;Uuml;berblick  Vorlesungszeit:Di 11:00-13:00, Fr 11:00-13:00 Ort:Vorlesungssaal M2 &amp;Uuml;bungsgruppen:Mi 9:00-11:00, Mi 11:00-13:00, Do 9:00-11:00, Do 11:00-13:00, Do 15:00-17:00, Fr 9:00-11:00, Fr 13:00-15:00, Fr 15:00-17:00 &amp;ndash; ab Mittwoch, den 12. 3. Voraussetzungen: Lineare Algebra I, Analysis I, II Zuordnung:Diplom, LA Gym/GS, LA Sek II/I, Nebenfach (Informatik: 9 CP) Abschlussklausur:Samstag, 15. Juli, 14:00-17:00, H&amp;ouml;rsaalgeb&amp;auml;ude Nachklausur:Freitag, 13. Oktober, 9:00-12:00, H&amp;ouml;rsaal 1  
 Funktionentheorie II Es gibt im Wintersemester 2006/2007 keine Fortf&amp;uuml;hrung der Funktionentheorie, auch wenn die aktuelle Vorlesung sich &amp;#132;Funktionentheorie I&amp;#147; nennt.</description>
     </item>
     
     <item>
       <title>The realizability of local loop spaces as manifolds</title>
-      <link>https://people.kth.se/~tilmanb/publication/the-realizability-of-local-loop-spaces-as-manifolds/</link>
+      <link>https://tilmanbauer.github.io/publication/the-realizability-of-local-loop-spaces-as-manifolds/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/publication/the-realizability-of-local-loop-spaces-as-manifolds/</guid>
+      <guid>https://tilmanbauer.github.io/publication/the-realizability-of-local-loop-spaces-as-manifolds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geometrie und ihre Didaktik – Vorlesungsbetreuung</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2005-2006/geometrie-didaktik/</link>
+      <link>https://tilmanbauer.github.io/teaching/2005-2006/geometrie-didaktik/</link>
       <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2005-2006/geometrie-didaktik/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2005-2006/geometrie-didaktik/</guid>
       <description>&amp;Uuml;berblick  Vorlesungszeit:Mo 15:00-17:00, Mi 15:00-17:00 Ort:Vorlesungssaal M4 &amp;Uuml;bungsgruppen:Mi 9:00-11:00, Mi 13:00-15:00, Mi 17:00-19:00 &amp;ndash; ab Mittwoch, den 26. 10. Voraussetzungen: Lineare Algebra I und II Zuordnung:LA Berufsk; LA Gym/GS; LA Sek II; LA Sek II/I   Inhalt Fachliche Grundlagen: Affine, projektive und euklidische Geometrie, axiomatischer Zugang, geometrische Objekte (z.B. Dreieck, Kreis, Kurven,
 Kegelschnitte) Beziehung der Geometrie zur linearen Algebra (Vektorrechnung/analytische
 Geometrie) Bemerkungen zur Geschichte der Geometrie, zu ihrer Bedeutung und zur Entwicklung der Fachdidaktik Geometrieunterricht: Vorgaben, Auswahl, Zielsetzung (z.</description>
@@ -813,84 +813,84 @@ Geometrie) Bemerkungen zur Geschichte der Geometrie, zu ihrer Bedeutung und zur 
     
     <item>
       <title>Lie-Algebren und ihre Darstellungen – Übungen</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2004-2005/lie-algebras/</link>
+      <link>https://tilmanbauer.github.io/teaching/2004-2005/lie-algebras/</link>
       <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2004-2005/lie-algebras/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2004-2005/lie-algebras/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Homologische Algebra und Gruppenkohomologie</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2004-2005/homologische-algebra/</link>
+      <link>https://tilmanbauer.github.io/teaching/2004-2005/homologische-algebra/</link>
       <pubDate>Fri, 01 Oct 2004 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2004-2005/homologische-algebra/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2004-2005/homologische-algebra/</guid>
       <description>&amp;Uuml;berblick  Zeit:Di 14:00-15:00, Fr 14:00-15:00 Ort:Vorlesungssaal M6 Voraussetzungen:Vorkenntnisse entsprechend den Vorlesungen Lineare Algebra, Algebra I Zuordnung:Diplom-Mathematik Bemerkung:Im ersten Teil der Vorlesung gibt es &amp;Uuml;bungszettel, deren Bearbeitung ich sehr empfehle, die aber unbenotet bleiben. Sprechstunde:Di 10:00, Zi. 504   Inhalt Ist A eine abelsche Gruppe mit einer Operation einer Gruppe G, so ist zu die Zuordnung A -&amp;gt; (die G-invarianten Elemente von A) ein Beispiel f&amp;uuml;r einen additiven Funktor.</description>
     </item>
     
     <item>
       <title>Seminar on elliptic operators, topology, and asymptotic methods</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2004-2005/elliptic-operators/</link>
+      <link>https://tilmanbauer.github.io/teaching/2004-2005/elliptic-operators/</link>
       <pubDate>Fri, 01 Oct 2004 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2004-2005/elliptic-operators/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2004-2005/elliptic-operators/</guid>
       <description>In diesem Semester lesen wir im Topologie-Diplomandenseminar das Buch [Roe] (s.u.).  Zeitplan   Alle Vortr&amp;auml;ge finden statt im Seminarraum SR 5 im 5. Stockwerk des Mathe-Instituts in der Einsteinstra&amp;szlig;e.
  Mi, 13. 10. 2004, 9:15Kein Vortrag Mi, 20. 10., 27. 10. und 3. 11. 2004, 9:15Sina Ghassemi, Benedikt Plitt, Andreas Lammerding[Roe, Kapitel 1-4] Mi, 10. 11. 2004, 9:15Markus F&amp;ouml;rster[Roe, Kapitel 5] Analytic Properties of Dirac Operators Ausarbeitung Mi, 17.</description>
     </item>
     
     <item>
       <title>A finite loop space not rationally equivalent to a compact Lie group</title>
-      <link>https://people.kth.se/~tilmanb/publication/a-finite-loop-space-not-rationally-equivalent-to-a-compact-lie-group/</link>
+      <link>https://tilmanbauer.github.io/publication/a-finite-loop-space-not-rationally-equivalent-to-a-compact-lie-group/</link>
       <pubDate>Thu, 01 Jul 2004 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/publication/a-finite-loop-space-not-rationally-equivalent-to-a-compact-lie-group/</guid>
+      <guid>https://tilmanbauer.github.io/publication/a-finite-loop-space-not-rationally-equivalent-to-a-compact-lie-group/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diplomandenseminar Spin-Gruppen, K-Theorie und der J-Homomorphismus</title>
-      <link>https://people.kth.se/~tilmanb/teaching/2003-2004/seminar-spin-j-k/</link>
+      <link>https://tilmanbauer.github.io/teaching/2003-2004/seminar-spin-j-k/</link>
       <pubDate>Thu, 01 Apr 2004 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/teaching/2003-2004/seminar-spin-j-k/</guid>
+      <guid>https://tilmanbauer.github.io/teaching/2003-2004/seminar-spin-j-k/</guid>
       <description>Ank&amp;uuml;ndigung und &amp;Uuml;berblick &amp;uuml;ber die Vortr&amp;auml;ge  Zeitplan   Alle Vortr&amp;auml;ge finden statt im Seminarraum SR 5 im 5. Stockwerk des Mathe-Instituts in der Einsteinstra&amp;szlig;e.
  Mi, 21. 4. 2004, 9:15 Benedikt Plitt  Cliffordalgebren und Spingruppen  Ausarbeitung  Mi, 28. 4. 2004, 9:15 Benedikt Plitt, Michael WeiermannRelative K-Theorie und die Spin-Orientierung von KOHandschriftliche Ausarbeitung erh&amp;auml;ltlich von M. W. Mo, 3. 5. 2004, 15:00 Michael Weiermann Die Spin-Orientierung von KO (Fortsetzung) Mi, 5.</description>
     </item>
     
     <item>
       <title>$p$-compact groups as framed manifolds</title>
-      <link>https://people.kth.se/~tilmanb/publication/p-compact-groups-as-framed-manifolds/</link>
+      <link>https://tilmanbauer.github.io/publication/p-compact-groups-as-framed-manifolds/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/publication/p-compact-groups-as-framed-manifolds/</guid>
+      <guid>https://tilmanbauer.github.io/publication/p-compact-groups-as-framed-manifolds/</guid>
       <description>The original thesis version with more exposition is available here.</description>
     </item>
     
     <item>
       <title>finite loop spaces are manifolds</title>
-      <link>https://people.kth.se/~tilmanb/publication/finite-loop-spaces-are-manifolds/</link>
+      <link>https://tilmanbauer.github.io/publication/finite-loop-spaces-are-manifolds/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/publication/finite-loop-spaces-are-manifolds/</guid>
+      <guid>https://tilmanbauer.github.io/publication/finite-loop-spaces-are-manifolds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An infinite loop space structure on the nerve of spin bordism categories</title>
-      <link>https://people.kth.se/~tilmanb/publication/an-infinite-loop-space-structure-on-the-nerve-of-spin-bordism-categories/</link>
+      <link>https://tilmanbauer.github.io/publication/an-infinite-loop-space-structure-on-the-nerve-of-spin-bordism-categories/</link>
       <pubDate>Sun, 17 Aug 2003 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/publication/an-infinite-loop-space-structure-on-the-nerve-of-spin-bordism-categories/</guid>
+      <guid>https://tilmanbauer.github.io/publication/an-infinite-loop-space-structure-on-the-nerve-of-spin-bordism-categories/</guid>
       <description>There are two theses who led to this publication: my Oxford MSc thesis and my Bonn Diplomarbeit.</description>
     </item>
     
     <item>
       <title>Elliptic cohomology and projective spaces: a computation</title>
-      <link>https://people.kth.se/~tilmanb/publication/elliptic-cohomology-and-projective-spaces/</link>
+      <link>https://tilmanbauer.github.io/publication/elliptic-cohomology-and-projective-spaces/</link>
       <pubDate>Thu, 06 Feb 2003 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/publication/elliptic-cohomology-and-projective-spaces/</guid>
+      <guid>https://tilmanbauer.github.io/publication/elliptic-cohomology-and-projective-spaces/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Math on Tilman Bauer&#39;s math site</title>
-    <link>https://people.kth.se/~tilmanb/tags/math/</link>
+    <link>https://tilmanbauer.github.io/tags/math/</link>
     <description>Recent content in Math on Tilman Bauer&#39;s math site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://people.kth.se/~tilmanb/tags/math/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tilmanbauer.github.io/tags/math/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Super-groups at odd primes</title>
-      <link>https://people.kth.se/~tilmanb/project/super-groups-at-odd-primes/</link>
+      <link>https://tilmanbauer.github.io/project/super-groups-at-odd-primes/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/project/super-groups-at-odd-primes/</guid>
+      <guid>https://tilmanbauer.github.io/project/super-groups-at-odd-primes/</guid>
       <description>There is an extensive class of groups with the following properties:
  They have a central element &amp;ldquo;$-1$&amp;rdquo; of order two. This means that $(-1)a=a(-1)$ for all group elements $a$, and $(-1)^2=1$, the identity element. They have a homomorphism &amp;ldquo;det&amp;rdquo; to the group $\{\pm1\}$ with two elements such that $\det(-1)=1$.  Groups with this structure are called super-groups (by me).
 Here are some examples:
@@ -25,20 +25,20 @@ Here are some examples:
     
     <item>
       <title>p-polar rings</title>
-      <link>https://people.kth.se/~tilmanb/project/p-polar-rings/</link>
+      <link>https://tilmanbauer.github.io/project/p-polar-rings/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/project/p-polar-rings/</guid>
+      <guid>https://tilmanbauer.github.io/project/p-polar-rings/</guid>
       <description>What if one modified the definition of a commutative ring to only allow for $p$-fold multiplications instead of binary multiplications? This is the starting point of this project. There are various flavors of such $p$-polar rings, as I call them. The most basic one is the following:
 Definition. Let $k$ be a ring and $p$ be a prime. A $p$-polar $k$-algebra is a $k$-module $R$ together with a map $$ \mu\colon R \times \cdots \times R \to R \quad \text{(p factors)} $$ such that:</description>
     </item>
     
     <item>
       <title>Dévissage in Waldhausen K-theory</title>
-      <link>https://people.kth.se/~tilmanb/project/devissage/</link>
+      <link>https://tilmanbauer.github.io/project/devissage/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/project/devissage/</guid>
+      <guid>https://tilmanbauer.github.io/project/devissage/</guid>
       <description>The aim of this project is to generalize Quillen&amp;rsquo;s dévissage theorem in algebraic K-theory:
 Theorem. Let $C$ be an exact subcategory of an abelian category $D$, closed under subobjects and quotients. If every object of $D$ has a finite filtration with filtration quotients in $C$, then $KC \simeq KD$.
 The goal of the proposed project is to prove a generalized dévissage theorem in Waldhausen K-theory with methods that have not been previously applied to this question.</description>
@@ -46,10 +46,10 @@ The goal of the proposed project is to prove a generalized dévissage theorem in
     
     <item>
       <title>Plethories and topology</title>
-      <link>https://people.kth.se/~tilmanb/project/plethories-and-topology/</link>
+      <link>https://tilmanbauer.github.io/project/plethories-and-topology/</link>
       <pubDate>Fri, 03 Jun 2016 14:38:39 +0200</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/project/plethories-and-topology/</guid>
+      <guid>https://tilmanbauer.github.io/project/plethories-and-topology/</guid>
       <description>A (formal) plethory is a rather complex algebraic structure; for the category-theory minded, it is a (ind-)representable endofunctor $P$ on the category of (graded) commutative $R$-algebras which also carries the structure of a comonoid with respect to composition: it has a comultiplication $P \to P \circ P$ which is coassociative and counital, but not cocommutative. Or to put it into explicit terms: it is an $R$-module $P$ with the following additional data:</description>
     </item>
     

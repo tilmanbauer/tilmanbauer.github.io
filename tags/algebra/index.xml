@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Algebra on Tilman Bauer&#39;s math site</title>
-    <link>https://people.kth.se/~tilmanb/tags/algebra/</link>
+    <link>https://tilmanbauer.github.io/tags/algebra/</link>
     <description>Recent content in Algebra on Tilman Bauer&#39;s math site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://people.kth.se/~tilmanb/tags/algebra/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tilmanbauer.github.io/tags/algebra/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>p-polar rings</title>
-      <link>https://people.kth.se/~tilmanb/project/p-polar-rings/</link>
+      <link>https://tilmanbauer.github.io/project/p-polar-rings/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/project/p-polar-rings/</guid>
+      <guid>https://tilmanbauer.github.io/project/p-polar-rings/</guid>
       <description>What if one modified the definition of a commutative ring to only allow for $p$-fold multiplications instead of binary multiplications? This is the starting point of this project. There are various flavors of such $p$-polar rings, as I call them. The most basic one is the following:
 Definition. Let $k$ be a ring and $p$ be a prime. A $p$-polar $k$-algebra is a $k$-module $R$ together with a map $$ \mu\colon R \times \cdots \times R \to R \quad \text{(p factors)} $$ such that:</description>
     </item>

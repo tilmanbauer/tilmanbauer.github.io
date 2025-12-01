@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tex on Tilman Bauer&#39;s math site</title>
-    <link>https://people.kth.se/~tilmanb/tags/tex/</link>
+    <link>https://tilmanbauer.github.io/tags/tex/</link>
     <description>Recent content in Tex on Tilman Bauer&#39;s math site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://people.kth.se/~tilmanb/tags/tex/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tilmanbauer.github.io/tags/tex/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The sseq/luasseq LaTeX package</title>
-      <link>https://people.kth.se/~tilmanb/project/sseq/</link>
+      <link>https://tilmanbauer.github.io/project/sseq/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/project/sseq/</guid>
+      <guid>https://tilmanbauer.github.io/project/sseq/</guid>
       <description>I wrote a LaTeX package that lets you draw spectral sequence pages like the above one with relative ease. By the way, this is the beginning of the Adams-Novikov spectral sequence converging to the homotopy groups of tmf at the prime 3.
 There are two versions available: sseq and luasseq. The first one (the current version is 2.01 as of September 6, 2013) will run on any TeX installation, but it is slow and lacks some additional features present in luasseq.</description>
     </item>

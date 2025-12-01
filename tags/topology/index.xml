@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topology on Tilman Bauer&#39;s math site</title>
-    <link>https://people.kth.se/~tilmanb/tags/topology/</link>
+    <link>https://tilmanbauer.github.io/tags/topology/</link>
     <description>Recent content in Topology on Tilman Bauer&#39;s math site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Nov 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://people.kth.se/~tilmanb/tags/topology/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tilmanbauer.github.io/tags/topology/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dévissage in Waldhausen K-theory</title>
-      <link>https://people.kth.se/~tilmanb/project/devissage/</link>
+      <link>https://tilmanbauer.github.io/project/devissage/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/project/devissage/</guid>
+      <guid>https://tilmanbauer.github.io/project/devissage/</guid>
       <description>The aim of this project is to generalize Quillen&amp;rsquo;s dévissage theorem in algebraic K-theory:
 Theorem. Let $C$ be an exact subcategory of an abelian category $D$, closed under subobjects and quotients. If every object of $D$ has a finite filtration with filtration quotients in $C$, then $KC \simeq KD$.
 The goal of the proposed project is to prove a generalized dévissage theorem in Waldhausen K-theory with methods that have not been previously applied to this question.</description>
@@ -24,10 +24,10 @@ The goal of the proposed project is to prove a generalized dévissage theorem in
     
     <item>
       <title>Plethories and topology</title>
-      <link>https://people.kth.se/~tilmanb/project/plethories-and-topology/</link>
+      <link>https://tilmanbauer.github.io/project/plethories-and-topology/</link>
       <pubDate>Fri, 03 Jun 2016 14:38:39 +0200</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/project/plethories-and-topology/</guid>
+      <guid>https://tilmanbauer.github.io/project/plethories-and-topology/</guid>
       <description>A (formal) plethory is a rather complex algebraic structure; for the category-theory minded, it is a (ind-)representable endofunctor $P$ on the category of (graded) commutative $R$-algebras which also carries the structure of a comonoid with respect to composition: it has a comultiplication $P \to P \circ P$ which is coassociative and counital, but not cocommutative. Or to put it into explicit terms: it is an $R$-module $P$ with the following additional data:</description>
     </item>
     

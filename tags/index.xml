@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tilman Bauer&#39;s math site</title>
-    <link>https://people.kth.se/~tilmanb/tags/</link>
+    <link>https://tilmanbauer.github.io/tags/</link>
     <description>Recent content in Tags on Tilman Bauer&#39;s math site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://people.kth.se/~tilmanb/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tilmanbauer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Algebra</title>
-      <link>https://people.kth.se/~tilmanb/tags/algebra/</link>
+      <link>https://tilmanbauer.github.io/tags/algebra/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/tags/algebra/</guid>
+      <guid>https://tilmanbauer.github.io/tags/algebra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Groups</title>
-      <link>https://people.kth.se/~tilmanb/tags/groups/</link>
+      <link>https://tilmanbauer.github.io/tags/groups/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/tags/groups/</guid>
+      <guid>https://tilmanbauer.github.io/tags/groups/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://people.kth.se/~tilmanb/tags/hugo/</link>
+      <link>https://tilmanbauer.github.io/tags/hugo/</link>
       <pubDate>Thu, 02 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/tags/hugo/</guid>
+      <guid>https://tilmanbauer.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Math</title>
-      <link>https://people.kth.se/~tilmanb/tags/math/</link>
+      <link>https://tilmanbauer.github.io/tags/math/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/tags/math/</guid>
+      <guid>https://tilmanbauer.github.io/tags/math/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Representations</title>
-      <link>https://people.kth.se/~tilmanb/tags/representations/</link>
+      <link>https://tilmanbauer.github.io/tags/representations/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/tags/representations/</guid>
+      <guid>https://tilmanbauer.github.io/tags/representations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rings</title>
-      <link>https://people.kth.se/~tilmanb/tags/rings/</link>
+      <link>https://tilmanbauer.github.io/tags/rings/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/tags/rings/</guid>
+      <guid>https://tilmanbauer.github.io/tags/rings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spectral Sequences</title>
-      <link>https://people.kth.se/~tilmanb/tags/spectral-sequences/</link>
+      <link>https://tilmanbauer.github.io/tags/spectral-sequences/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/tags/spectral-sequences/</guid>
+      <guid>https://tilmanbauer.github.io/tags/spectral-sequences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tex</title>
-      <link>https://people.kth.se/~tilmanb/tags/tex/</link>
+      <link>https://tilmanbauer.github.io/tags/tex/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/tags/tex/</guid>
+      <guid>https://tilmanbauer.github.io/tags/tex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Topology</title>
-      <link>https://people.kth.se/~tilmanb/tags/topology/</link>
+      <link>https://tilmanbauer.github.io/tags/topology/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://people.kth.se/~tilmanb/tags/topology/</guid>
+      <guid>https://tilmanbauer.github.io/tags/topology/</guid>
       <description></description>
     </item>
     
