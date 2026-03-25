@@ -6,10 +6,19 @@
     <description>Recent content in Publications on Tilman Bauer&#39;s math site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tilmanbauer.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Infinite families of very exotic spheres with free $S^1$- and $S^3$-actions</title>
+      <link>https://tilmanbauer.github.io/publication/frees1/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://tilmanbauer.github.io/publication/frees1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Topological Jacobi Forms</title>
