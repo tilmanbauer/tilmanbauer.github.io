@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tilmanbauer.github.io/publication/tjf/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tilmanbauer.github.io/publication/tjf-orientation/</loc>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tilmanbauer.github.io/publication/frees1/</loc>
     <lastmod>2026-03-25T00:00:00+00:00</lastmod>
   </url>
@@ -20,11 +30,6 @@
   <url>
     <loc>https://tilmanbauer.github.io/teaching/2025-2026/sf1672_linjaer_algebra/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tilmanbauer.github.io/publication/tjf/</loc>
-    <lastmod>2025-08-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -536,7 +541,7 @@
   
   <url>
     <loc>https://tilmanbauer.github.io/publication/</loc>
-    <lastmod>2026-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -578,7 +583,7 @@
   
   <url>
     <loc>https://tilmanbauer.github.io/</loc>
-    <lastmod>2026-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
